@@ -15,4 +15,8 @@ class segitiga
 {
     public :
         int tinggi, alas;
+        int luasSegitiga(int a, int t)
+        {
+            
+        }
 };
