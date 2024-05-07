@@ -13,5 +13,5 @@ class persegiPanjang
 
 class segitiga
 {
-
+    public :
 };
